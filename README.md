@@ -1,4 +1,10 @@
-## Hola, soy Isaac Rique 👋
+# Hola, soy Isaac Rique 👋
+
+Estudiante de DAM, friki de la tecnologia
+
+##Tabla de contenidos
+-en curso-
+
 
 <!--
 **irc509/Irc509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
